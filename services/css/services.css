@@ -1,0 +1,31 @@
+.wrapper{
+    width:900px;
+        margin:0  auto;
+}
+.services{
+  width:50%;
+  margin:0 auto;
+  text-align: center;
+  margin-bottom: 70px;
+}
+.services p{
+    line-height: 25px;
+}
+.s1{
+    width:290px;
+    float: left;
+    margin-left: 10px;
+    line-height: 20px;
+}
+.s1 img{
+    width:100%;
+}
+.s1 img:hover{
+    border: rgb(245, 144, 12) 2px solid;
+}
+h3{
+    color:rgb(245, 144, 12);;
+}
+h2{
+    color:rgb(245, 144, 12);
+}
